@@ -1,0 +1,17 @@
+# Базы данных
+*.sqlite3
+*.db
+
+# IDE
+.idea/
+.vscode/
+__pycache__/
+
+# Environment
+.env
+*.env
+
+# Python
+*.pyc
+
+venv/
